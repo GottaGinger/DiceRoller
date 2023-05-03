@@ -1,0 +1,15 @@
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.csproj.AssemblyReference.cache
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.AssemblyInfoInputs.cache
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.AssemblyInfo.cs
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.csproj.CoreCompileInputs.cache
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.exe
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.deps.json
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.runtimeconfig.json
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.dll
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.pdb
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.dll
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\refint\DiceRollerLab.dll
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.pdb
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.genruntimeconfig.cache
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\DiceRollerLab\DiceRollerLab\obj\Debug\net6.0\ref\DiceRollerLab.dll
